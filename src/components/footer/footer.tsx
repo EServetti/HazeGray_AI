@@ -15,7 +15,7 @@ const Footer = () => {
             </a>
           </span>
         </span>
-        <section className="footer-rows">
+        {/* <section className="footer-rows">
           <ul>
             <li>
               <a href="">Item_1</a>
@@ -49,7 +49,7 @@ const Footer = () => {
               <a href="">Item_1</a>
             </li>
           </ul>
-        </section>
+        </section> */}
         <p>© Haze Gray.</p>
       </div>
     </footer>

@@ -51,22 +51,12 @@
 /* mainContent */
 
 .main-content-component {
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
   padding: 80px 100px;
-}
-
-.carousel-item {
-  aspect-ratio: 16 / 9;
-  width: 100%;
-}
-
-.carousel-image {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
 }
 
 /* Footer */

@@ -1,0 +1,15 @@
+.contact-links {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.contact-links a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    border: 1px solid var(--text-color);
+    padding: 7px;
+    border-radius: 5px;
+}

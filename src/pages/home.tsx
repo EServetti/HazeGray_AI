@@ -1,4 +1,5 @@
 import Carousel from "../components/mainContent/carousel";
+import "../styles/home.css"
 
 const Home = () => {
   return (

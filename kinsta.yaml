@@ -1,0 +1,6 @@
+static:
+  redirect_rules:
+    - paths:
+        - /*
+      destination: /index.html
+      status_code: 200
